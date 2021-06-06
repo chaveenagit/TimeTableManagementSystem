@@ -1,0 +1,260 @@
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form1.resources
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+C:\Users\samithra mindana\OneDrive\Desktop\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form1.resources
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+D:\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Tags.resources
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+D:\SLIIT\Y3S1\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.TagsM.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Lecturer.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Session.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form1.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Statistics.resources
+E:\itpm --- proj\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.rooms.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Lecturer.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.rooms.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Session.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Statistics.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.location.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.notAvailable.resources
+E:\itpm new backups\2021_18_5_7_18PM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form2.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form2.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.notAvailable.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.location.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Lecturer.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.rooms.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Session.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Statistics.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+E:\itpm new backups\2021_20_5_8_40AM\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form2.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.notAvailable.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.location.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Lecturer.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.rooms.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Session.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Statistics.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+E:\itpm new backups\new new new last\pro - - 3\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTablemanagement.mdf
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTablemanagement_log.ldf
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form2.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.notAvailable.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.location.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Lecturer.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.rooms.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Session.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Statistics.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+E:\backLast\a\itpm prj\TimeTableManagement_ITPMProject\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTablemanagement.mdf
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTablemanagement_log.ldf
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe.config
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.exe
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\TimeTableMangment.pdb
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.dll
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.dll
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.xml
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form2.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.notAvailable.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.location.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Lecturer.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Properties.Resources.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.rooms.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Session.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Statistics.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Student.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.UserInterfaces.LocationUI.resources
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.GenerateResource.cache
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CoreCompileInputs.cache
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csproj.CopyComplete
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.exe
+C:\Users\Chathu_PC\Desktop\ITPM\Itpm Project\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.pdb

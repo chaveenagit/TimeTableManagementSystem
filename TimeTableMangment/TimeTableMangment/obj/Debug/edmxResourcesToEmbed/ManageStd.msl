@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TimeTablemanagementdbModelStoreContainer" CdmEntityContainer="TimeTablemanagementdbEntities1">
+    <EntitySetMapping Name="ManageStdTBs">
+      <EntityTypeMapping TypeName="TimeTablemanagementdbModel.ManageStdTB">
+        <MappingFragment StoreEntitySet="ManageStdTB">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AcademicYearSem" ColumnName="AcademicYearSem" />
+          <ScalarProperty Name="Programme" ColumnName="Programme" />
+          <ScalarProperty Name="GrpNo" ColumnName="GrpNo" />
+          <ScalarProperty Name="NumofStudinMainGrp" ColumnName="NumofStudinMainGrp" />
+          <ScalarProperty Name="SubGrpNum" ColumnName="SubGrpNum" />
+          <ScalarProperty Name="NumofStudinSubGrp" ColumnName="NumofStudinSubGrp" />
+          <ScalarProperty Name="GrpID" ColumnName="GrpID" />
+          <ScalarProperty Name="SubGrpID" ColumnName="SubGrpID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ManageStdTimeTBs">
+      <EntityTypeMapping TypeName="TimeTablemanagementdbModel.ManageStdTimeTB">
+        <MappingFragment StoreEntitySet="ManageStdTimeTB">
+          <ScalarProperty Name="SubGrpID" ColumnName="SubGrpID" />
+          <ScalarProperty Name="GrpID" ColumnName="GrpID" />
+          <ScalarProperty Name="NumofStudinSubGrp" ColumnName="NumofStudinSubGrp" />
+          <ScalarProperty Name="SubGrpNum" ColumnName="SubGrpNum" />
+          <ScalarProperty Name="NumofStudinMainGrp" ColumnName="NumofStudinMainGrp" />
+          <ScalarProperty Name="GrpNo" ColumnName="GrpNo" />
+          <ScalarProperty Name="Programme" ColumnName="Programme" />
+          <ScalarProperty Name="AcademicYearSem" ColumnName="AcademicYearSem" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

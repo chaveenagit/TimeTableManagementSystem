@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TimeTablemanagementdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ManageStdTB">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AcademicYearSem" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Programme" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="GrpNo" Type="int" Nullable="false" />
+    <Property Name="NumofStudinMainGrp" Type="int" Nullable="false" />
+    <Property Name="SubGrpNum" Type="int" Nullable="false" />
+    <Property Name="NumofStudinSubGrp" Type="int" Nullable="false" />
+    <Property Name="GrpID" Type="int" Nullable="false" />
+    <Property Name="SubGrpID" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ManageStdTimeTB">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AcademicYearSem" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Programme" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="GrpNo" Type="int" Nullable="false" />
+    <Property Name="NumofStudinMainGrp" Type="int" Nullable="false" />
+    <Property Name="SubGrpNum" Type="int" Nullable="false" />
+    <Property Name="NumofStudinSubGrp" Type="int" Nullable="false" />
+    <Property Name="GrpID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SubGrpID" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TimeTablemanagementdbModelStoreContainer">
+    <EntitySet Name="ManageStdTB" EntityType="Self.ManageStdTB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ManageStdTimeTB" EntityType="Self.ManageStdTimeTB" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

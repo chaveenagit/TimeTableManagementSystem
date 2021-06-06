@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TimeTablemanagementdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ManageStdTB">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AcademicYearSem" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Programme" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="GrpNo" Type="int" Nullable="false" />
+          <Property Name="NumofStudinMainGrp" Type="int" Nullable="false" />
+          <Property Name="SubGrpNum" Type="int" Nullable="false" />
+          <Property Name="NumofStudinSubGrp" Type="int" Nullable="false" />
+          <Property Name="GrpID" Type="int" Nullable="false" />
+          <Property Name="SubGrpID" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ManageStdTimeTB">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AcademicYearSem" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Programme" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="GrpNo" Type="int" Nullable="false" />
+          <Property Name="NumofStudinMainGrp" Type="int" Nullable="false" />
+          <Property Name="SubGrpNum" Type="int" Nullable="false" />
+          <Property Name="NumofStudinSubGrp" Type="int" Nullable="false" />
+          <Property Name="GrpID" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="SubGrpID" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="TimeTablemanagementdbModelStoreContainer">
+          <EntitySet Name="ManageStdTB" EntityType="Self.ManageStdTB" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ManageStdTimeTB" EntityType="Self.ManageStdTimeTB" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TimeTablemanagementdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="ManageStdTB">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AcademicYearSem" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Programme" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="GrpNo" Type="Int32" Nullable="false" />
+          <Property Name="NumofStudinMainGrp" Type="Int32" Nullable="false" />
+          <Property Name="SubGrpNum" Type="Int32" Nullable="false" />
+          <Property Name="NumofStudinSubGrp" Type="Int32" Nullable="false" />
+          <Property Name="GrpID" Type="Int32" Nullable="false" />
+          <Property Name="SubGrpID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="TimeTablemanagementdbEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ManageStdTBs" EntityType="Self.ManageStdTB" />
+          <EntitySet Name="ManageStdTimeTBs" EntityType="TimeTablemanagementdbModel.ManageStdTimeTB" />
+        </EntityContainer>
+        <EntityType Name="ManageStdTimeTB">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AcademicYearSem" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Programme" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="GrpNo" Type="Int32" Nullable="false" />
+          <Property Name="NumofStudinMainGrp" Type="Int32" Nullable="false" />
+          <Property Name="SubGrpNum" Type="Int32" Nullable="false" />
+          <Property Name="NumofStudinSubGrp" Type="Int32" Nullable="false" />
+          <Property Name="GrpID" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="SubGrpID" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TimeTablemanagementdbModelStoreContainer" CdmEntityContainer="TimeTablemanagementdbEntities1">
+          <EntitySetMapping Name="ManageStdTBs">
+            <EntityTypeMapping TypeName="TimeTablemanagementdbModel.ManageStdTB">
+              <MappingFragment StoreEntitySet="ManageStdTB">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="AcademicYearSem" ColumnName="AcademicYearSem" />
+                <ScalarProperty Name="Programme" ColumnName="Programme" />
+                <ScalarProperty Name="GrpNo" ColumnName="GrpNo" />
+                <ScalarProperty Name="NumofStudinMainGrp" ColumnName="NumofStudinMainGrp" />
+                <ScalarProperty Name="SubGrpNum" ColumnName="SubGrpNum" />
+                <ScalarProperty Name="NumofStudinSubGrp" ColumnName="NumofStudinSubGrp" />
+                <ScalarProperty Name="GrpID" ColumnName="GrpID" />
+                <ScalarProperty Name="SubGrpID" ColumnName="SubGrpID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ManageStdTimeTBs">
+            <EntityTypeMapping TypeName="TimeTablemanagementdbModel.ManageStdTimeTB">
+              <MappingFragment StoreEntitySet="ManageStdTimeTB">
+                <ScalarProperty Name="SubGrpID" ColumnName="SubGrpID" />
+                <ScalarProperty Name="GrpID" ColumnName="GrpID" />
+                <ScalarProperty Name="NumofStudinSubGrp" ColumnName="NumofStudinSubGrp" />
+                <ScalarProperty Name="SubGrpNum" ColumnName="SubGrpNum" />
+                <ScalarProperty Name="NumofStudinMainGrp" ColumnName="NumofStudinMainGrp" />
+                <ScalarProperty Name="GrpNo" ColumnName="GrpNo" />
+                <ScalarProperty Name="Programme" ColumnName="Programme" />
+                <ScalarProperty Name="AcademicYearSem" ColumnName="AcademicYearSem" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
