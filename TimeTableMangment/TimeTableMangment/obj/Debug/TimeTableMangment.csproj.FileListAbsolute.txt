@@ -240,7 +240,6 @@ C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTa
 C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.AccessControl.xml
 C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Permissions.xml
 C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\bin\Debug\System.Security.Principal.Windows.xml
-C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.csprojAssemblyReference.cache
 C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Advanced.resources
 C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Dashboard.resources
 C:\Users\Devindi\Source\Repos\TimeTableManagementSystem\TimeTableMangment\TimeTableMangment\obj\Debug\TimeTableMangment.Form2.resources
